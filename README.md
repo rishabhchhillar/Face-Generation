@@ -2,7 +2,7 @@
 
 In this project, I've defined and trained a DCGAN on a dataset of faces. The goal of this project was to get a generator network to generate new images of faces that look as realistic as possible!
 
-The data set used to train the adversarial networks is <a src="http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html">CelebFaces Attributes Dataset (CelebA)</a>.
+The data set used to train the adversarial networks is [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
 
     
   *This project is part of the Udacity Deep Learning Nanodegree*
